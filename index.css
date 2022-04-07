@@ -1,0 +1,26 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+html, body{ 
+    height: 100%;
+    width: 100%;
+    background-color: brown
+}
+html{
+    font-size: 50px;
+}
+p { 
+    display: flex;
+}
+
+.container{background-color: skyblue;
+    height: 100%;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    border-radius: 20%;
+    font-size: 40 px;
+}
+
